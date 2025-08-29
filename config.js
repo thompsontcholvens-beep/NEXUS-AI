@@ -33,7 +33,7 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://i.postimg.cc/SR9S0ZdT/119
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "SHASHalsOTOT",
+BOT_NAME: process.env.BOT_NAME || "SHADOW BOT"
 // add bot namw here for menu
 STICKER_NAME: process.env.STICKER_NAME || "SHADOW BOT",
 // type sticker pack name 
